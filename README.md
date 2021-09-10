@@ -2,4 +2,6 @@
 ## Undervisningsmateriale
 Her bliver der lagt opgaver fra projekterne op.
 
-Her er koden. Oet et link [Danmarks Radio](https://dr.dk)
+## Direkte fra klassen
+
+Her er koden. Og et et link [Danmarks Radio](https://dr.dk)
